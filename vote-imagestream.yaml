@@ -4,3 +4,5 @@ metadata:
   name: vote
   labels:
     app: voting-app
+spec:
+  dockerImageRepository: "ghcr.io/joonhuang/vote"
